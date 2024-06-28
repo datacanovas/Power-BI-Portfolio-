@@ -11,6 +11,48 @@ Proyecto con el objetivo de aportar insights al negocio de restauración
 
 ![image](https://github.com/datacanovas/Power-BI-Portfolio-/assets/157279064/978c83ce-3048-41f8-9edd-17446d23266a)
 
+## Análisis de demanda de productos de Bodegas
+
+Este proyecto se centra en la simulación de escenarios del mundo real mediante el análisis de conjuntos de datos no estructurados e incompletos para extraer ideas significativas.
+
+Se analizan los datos de BODEGAS S.L, empresa vitivinícola en la que se utilizó la base de datos obtenida sobre las ventas a diversos clientes durante los años 2021, 2022 y 2023
+
+Utilizando Power BI, el proyecto examina la demanda de productos, identifica tendencias y proporciona recomendaciones prácticas para mejorar las operaciones empresariales y la planificación estratégica.
+
+![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/c07be1c6-2c98-43ca-8207-f9d266dae1ad)
+
+
+- [Enlace a proyecto](https://github.com/datacanovas/Analisis_demanda_productos_BODEGAS.SL)
+
+
+
+## Dashboard de Logística
+
+Este dashboard se enfoca en la gestión logística y proporciona información detallada sobre vehículos registrados, seguimiento de envíos, asignación de recursos y análisis de rendimiento logístico.
+
+**Funcionalidades del proyecto:**
+- Gestión de flota de vehículos
+- Seguimiento y registro de envíos
+- Asignación y coordinación de recursos (vehículos) para entregas
+- Análisis de rendimiento y eficiencia logística
+
+![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/16cdb915-ed1c-472a-a026-5b2a62a9cbec)
+
+**Enlaces:**
+- [Dashboard de Logística](https://app.powerbi.com/view?r=eyJrIjoiNTk2N2Y1ZTItNWUwYi00YzZiLWFmNDAtYzM2MThiOWJiNmNiIiwidCI6IjU1OWEwYThhLWExMTEtNGM4OS1iMmM0LWM0YjkyZDYyNjlkOSIsImMiOjl9)
+
+## Dashboard Centro de Llamadas
+
+
+Este repositorio contiene los recursos de diseño y antecedentes para el informe de Power BI que creé: Análisis de datos del centro de llamadas. El informe se creó utilizando Figma, una herramienta de diseño colaborativo, para garantizar una experiencia visualmente atractiva y fácil de usar.
+
+![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/0791aaa9-42ff-4fa5-a358-2f667d71cc81)
+
+![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/50f34c4d-7355-440b-91c3-7b0d1056e289)
+
+![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/99408e47-647a-45f4-9066-c1013cd8b46c)
+
+
 
 
 

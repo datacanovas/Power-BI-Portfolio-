@@ -30,6 +30,9 @@ Este dashboard se enfoca en la gestión logística y proporciona información de
 **Enlaces:**
 - [Dashboard de Logística](https://app.powerbi.com/view?r=eyJrIjoiNTk2N2Y1ZTItNWUwYi00YzZiLWFmNDAtYzM2MThiOWJiNmNiIiwidCI6IjU1OWEwYThhLWExMTEtNGM4OS1iMmM0LWM0YjkyZDYyNjlkOSIsImMiOjl9)
 
+
+
+
 ## Dashboard Centro de Llamadas
 
 

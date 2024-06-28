@@ -11,18 +11,7 @@ Proyecto con el objetivo de aportar insights al negocio de restauración
 
 ![image](https://github.com/datacanovas/Power-BI-Portfolio-/assets/157279064/978c83ce-3048-41f8-9edd-17446d23266a)
 
-## Análisis de demanda de productos de Bodegas
-
-Este proyecto se centra en la simulación de escenarios del mundo real mediante el análisis de conjuntos de datos no estructurados e incompletos para extraer ideas significativas.
-
-Se analizan los datos de BODEGAS S.L, empresa vitivinícola en la que se utilizó la base de datos obtenida sobre las ventas a diversos clientes durante los años 2021, 2022 y 2023
-
-Utilizando Power BI, el proyecto examina la demanda de productos, identifica tendencias y proporciona recomendaciones prácticas para mejorar las operaciones empresariales y la planificación estratégica.
-
-![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/c07be1c6-2c98-43ca-8207-f9d266dae1ad)
-
-
-- [Enlace a proyecto](https://github.com/datacanovas/Analisis_demanda_productos_BODEGAS.SL)
+Enlace a proyecto https://app.powerbi.com/view?r=eyJrIjoiYWIxM2ViZjAtMjA0MC00ZmExLWE1ZWQtMzcyMDgzYmI2MzIwIiwidCI6IjU1OWEwYThhLWExMTEtNGM4OS1iMmM0LWM0YjkyZDYyNjlkOSIsImMiOjl9 
 
 
 
@@ -51,8 +40,6 @@ Este repositorio contiene los recursos de diseño y antecedentes para el informe
 ![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/50f34c4d-7355-440b-91c3-7b0d1056e289)
 
 ![image](https://github.com/datacanovas/Power-BI-Portfolio/assets/157279064/99408e47-647a-45f4-9066-c1013cd8b46c)
-
-
 
 
 
